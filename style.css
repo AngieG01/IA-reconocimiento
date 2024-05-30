@@ -1,0 +1,22 @@
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+}
+
+.frame {
+    background-color: lightgray;
+    padding: 20px;
+}
+
+.button {
+    background-color: lightgreen;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
